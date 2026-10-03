@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of pladask/flarum-ext-norwegian-nynorsk.** Not for installation: use [Packagist](https://packagist.org/packages/pladask/flarum-ext-norwegian-nynorsk) or the [upstream repository](https://github.com/pladask/flarum-ext-norwegian-nynorsk).
 
-**0** versions archived · Latest: [`v0.1.0-beta.5.3`](https://github.com/flarchive/pladask-flarum-ext-norwegian-nynorsk/tree/archive/v0.1.0-beta.5.3) · License: `MIT` · Flarum: `^0.1.0-beta.5`
+**4** versions archived · Latest: [`v0.1.0-beta.5.3`](https://github.com/flarchive/pladask-flarum-ext-norwegian-nynorsk/tree/archive/v0.1.0-beta.5.3) · License: `MIT` · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.5.0` | 2016-05-07 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/pladask-flarum-ext-norwegian-nynorsk/tree/archive/v0.1.0-beta.5.0) |
+| `v0.1.0-beta.5.1` | 2016-05-07 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/pladask-flarum-ext-norwegian-nynorsk/tree/archive/v0.1.0-beta.5.1) |
+| `v0.1.0-beta.5.2` | 2016-05-07 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/pladask-flarum-ext-norwegian-nynorsk/tree/archive/v0.1.0-beta.5.2) |
+| `v0.1.0-beta.5.3` | 2016-05-07 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/pladask-flarum-ext-norwegian-nynorsk/tree/archive/v0.1.0-beta.5.3) |
 
 Catalog entry: [packages/pladask-flarum-ext-norwegian-nynorsk.json](https://github.com/flarchive/archive-index/blob/main/packages/pladask-flarum-ext-norwegian-nynorsk.json)
 
